@@ -32,7 +32,6 @@ class Partie:
         self.vote_public_available = 1
         self.current_question_index = 0
 
-
         self.gains = ["200€", "300€", "500€", "800€", "1500€",
                       "3000€", "6000€", "12000€", "24000€" , "48000€",
                       "72000€", "100000€" , "150000€" , "300000€",
