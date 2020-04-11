@@ -3,6 +3,7 @@ Who wants to be a Millionaire ??
 
 ## Dependencies:
 
+python 3.6
 pygame
 
 
